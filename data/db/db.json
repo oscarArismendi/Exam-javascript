@@ -4,127 +4,154 @@
       "fullname": "Juan Pérez",
       "address": "Calle 123, Ciudad A",
       "cellphone": "555-1234",
-      "DNA_code": "01011011010100110110"
+      "DNA_code": "01011011010100110110",
+      "id": "4008"
     },
     {
       "fullname": "María García",
       "address": "Avenida XYZ, Ciudad B",
       "cellphone": "555-5678",
-      "DNA_code": "10101001110011001101"
+      "DNA_code": "10101001110011001101",
+      "id": "532b"
     },
     {
       "fullname": "Carlos Rodríguez",
       "address": "Carrera 456, Ciudad C",
       "cellphone": "555-9876",
-      "DNA_code": "11001100101100101011"
+      "DNA_code": "11001100101100101011",
+      "id": "a05f"
     },
     {
       "fullname": "Laura Gómez",
       "address": "Calle ABC, Ciudad A",
       "cellphone": "555-4321",
-      "DNA_code": "00110011101011000101"
+      "DNA_code": "00110011101011000101",
+      "id": "a5f2"
     },
     {
       "fullname": "Javier Martínez",
       "address": "Avenida DEF, Ciudad B",
       "cellphone": "555-8765",
-      "DNA_code": "11110000101001011100"
+      "DNA_code": "11110000101001011100",
+      "id": "fb20"
     },
     {
       "fullname": "Ana Sánchez",
       "address": "Carrera 789, Ciudad C",
       "cellphone": "555-2345",
-      "DNA_code": "01010101010101010101"
+      "DNA_code": "01010101010101010101",
+      "id": "7d03"
     },
     {
       "fullname": "Pedro López",
       "address": "Calle GHI, Ciudad A",
       "cellphone": "555-6789",
-      "DNA_code": "10011001100110011001"
+      "DNA_code": "10011001100110011001",
+      "id": "49b9"
     },
     {
       "fullname": "Sofía Hernández",
       "address": "Avenida JKL, Ciudad B",
       "cellphone": "555-3456",
-      "DNA_code": "01100110011001100110"
+      "DNA_code": "01100110011001100110",
+      "id": "080b"
     },
     {
       "fullname": "Luisa Vargas",
       "address": "Carrera 101, Ciudad C",
       "cellphone": "555-8901",
-      "DNA_code": "10101010101010101010"
+      "DNA_code": "10101010101010101010",
+      "id": "a69f"
     },
     {
       "fullname": "Miguel Torres",
       "address": "Calle MNO, Ciudad A",
       "cellphone": "555-6543",
-      "DNA_code": "11001100110011001100"
+      "DNA_code": "11001100110011001100",
+      "id": "9807"
     },
     {
       "fullname": "Elena Castro",
       "address": "Avenida PQR, Ciudad B",
       "cellphone": "555-2109",
-      "DNA_code": "00111100001111000011"
+      "DNA_code": "00111100001111000011",
+      "id": "3fb6"
     },
     {
       "fullname": "Roberto Ramírez",
       "address": "Carrera STU, Ciudad C",
       "cellphone": "555-1098",
-      "DNA_code": "11111100000011110000"
+      "DNA_code": "11111100000011110000",
+      "id": "9d66"
     },
     {
       "fullname": "Carmen Morales",
       "address": "Calle VWX, Ciudad A",
       "cellphone": "555-9012",
-      "DNA_code": "00001111000011110000"
+      "DNA_code": "00001111000011110000",
+      "id": "f892"
     },
     {
       "fullname": "Andrés Jiménez",
       "address": "Avenida YZA, Ciudad B",
       "cellphone": "555-3210",
-      "DNA_code": "11100011100011100011"
+      "DNA_code": "11100011100011100011",
+      "id": "a7d1"
     },
     {
       "fullname": "Isabel Ríos",
       "address": "Carrera BCD, Ciudad C",
       "cellphone": "555-4567",
-      "DNA_code": "00000000111111111111"
+      "DNA_code": "00000000111111111111",
+      "id": "013f"
     },
     {
       "fullname": "Héctor Medina",
       "address": "Calle EFG, Ciudad A",
       "cellphone": "555-7654",
-      "DNA_code": "11111111110000000000"
+      "DNA_code": "11111111110000000000",
+      "id": "bfcd"
     },
     {
       "fullname": "Patricia Silva",
       "address": "Avenida HIJ, Ciudad B",
       "cellphone": "555-2341",
-      "DNA_code": "00000000001111111111"
+      "DNA_code": "00000000001111111111",
+      "id": "15a0"
     },
     {
       "fullname": "Alejandro Nuñez",
       "address": "Carrera KLM, Ciudad C",
       "cellphone": "555-8761",
-      "DNA_code": "11000000110000001100"
+      "DNA_code": "11000000110000001100",
+      "id": "b707"
     },
     {
       "fullname": "Monica Ortega",
       "address": "Calle NOP, Ciudad A",
       "cellphone": "555-1987",
-      "DNA_code": "00111111100000000000"
+      "DNA_code": "00111111100000000000",
+      "id": "a94b"
     },
     {
       "fullname": "Ricardo Vidal",
       "address": "Avenida QRS, Ciudad B",
       "cellphone": "555-5671",
-      "DNA_code": "10000000001111111111"
+      "DNA_code": "10000000001111111111",
+      "id": "0ace"
     },
     {
       "id": "f5a1",
       "fullname": "German Briceño Macias",
       "address": "123 Main Street, city Bucaramanga",
       "cellphone": "3182930213",
+      "DNA_code": "11100011100011100011"
+    },
+    {
+      "id": "b405",
+      "fullname": "Oscar",
+      "address": "123  Street, city Bucaramanga",
+      "cellphone": "3182930212",
       "DNA_code": "11100011100011100011"
     }
   ]
